@@ -27,9 +27,9 @@ copy the scripts, dependencies and devDependencies from the 'express-es6-starter
 ```
 
 `
-<pre><b>create</b> a new empty repo on GitHub [the new-project you want to work on]</pre>
-**clone** it to your local PC and then cd [new-project]
-run **'npm init'** in the local repo to craete package.json file
-__clone__ the 'express-es6-starter' repo in a separate location on your PC
+`**`create`**` a new empty repo on GitHub [the new-project you want to work on]</pre>
+`**`clone`**` it to your local PC and then cd [new-project]
+run `**`'npm init'`**` in the local repo to craete package.json file
+`**`clone`**` the 'express-es6-starter' repo in a separate location on your PC
 copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
 `
