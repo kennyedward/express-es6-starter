@@ -5,7 +5,7 @@
 ## Usage
 
 ```.env
-**create** a new empty repo on GitHub [the new-project you want to work on]
+#create a new empty repo on GitHub [the new-project you want to work on]
 **clone** it to your local PC and then cd [new-project]
 run **'npm init'** in the local repo to craete package.json file
 clone the 'express-es6-starter' repo in a separate location on your PC
