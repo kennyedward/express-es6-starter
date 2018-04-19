@@ -54,3 +54,7 @@ $ git commit
 $ git push
 ```
 kickstart your project from here :ok_hand:
+
+## Author
+
+[Kehinde Edward](https://github.com/kennyedward)
