@@ -35,9 +35,9 @@ $ git clone https://www.github.com/express-es6-starter.git
 ```
 ### Add these files into your new project
 
-Copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
+Copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-repo local repo package.json file
 
-Manually copy the right files and folders (such as src, routes, .gitattributes, .eslintrc.json, .babelrc etc) from the local 'express-es6-starter' to the local new-project on your PC
+Manually copy the right files and folders (such as src, routes, .gitattributes, .eslintrc.json, .babelrc etc) from the local 'express-es6-starter' to the local new-repo on your PC
 
 Install all dependencies and devDependencies
 
