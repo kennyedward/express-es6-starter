@@ -15,18 +15,32 @@ The quickest way to get started with the 'express-es6-starter' is to follow thes
 2. Clone the repo to your local PC
 
 ```bash
-$ git clone https://www.github.com/express-es6-starter.git
+$ git clone https://www.github.com/new-repo.git
 ```
 
 3. cd into the local repo
 
 ```bash
-$ npm install -g express-generator@4
+$ cd local-repo
 ```
 
+4. Initialize the local repo to create package.json file
+
+```bash
+$ npm init
+```
+
+5. Clone the the 'express-es6-starter' repo in a separate location on your PC
+
+```bash
+$ git clone https://www.github.com/express-es6-starter.git
+```
+
+`
+copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
+`
+
 ```html
-run **'npm init'** in the local repo to craete package.json file
-__clone__ the 'express-es6-starter' repo in a separate location on your PC
 copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
 In addition, manually copy the right files and folders <br /> (such as src, routes, .gitattributes, .eslintrc.json, .babelrc etc) from the local 'express-es6-starter' to the local new-project on your PC
 run 'npm install' in the local repo to install all dependencies and devDependencies
