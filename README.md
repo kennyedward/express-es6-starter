@@ -33,6 +33,7 @@ Clone the the 'express-es6-starter' repo in a separate location on your PC
 ```bash
 $ git clone https://www.github.com/express-es6-starter.git
 ```
+### Add these files into your new project
 
 Copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
 
