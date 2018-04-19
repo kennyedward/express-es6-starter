@@ -2,11 +2,27 @@
 
 > **Note**: this is a node application quick start using [Express](https://expressjs.com), [Nodemon](https://nodemon.io), [Babel](https://babeljs.io), [Airbnb-style-guide](http://airbnb.io/javascript), [ES6-syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla).
 
+## Pre-requisite
+
+Ensure you have node and npm running
+
 ## Usage
 
+The quickest way to get started with the 'express-es6-starter' is to follow these steps below:
+
+Create a new empty repo on GitHub [the new-project you want to work on]
+
+Clone [new-project] to your local PC and then cd [new-project]
+
+```bash
+$ git clone https://www.github.com/express-es6-starter.git
+```
+
+```bash
+$ npm install -g express-generator@4
+```
+
 ```html
-`**`create`**` a new empty repo on GitHub [the new-project you want to work on]</pre>
-**clone** it to your local PC and then cd [new-project]
 run **'npm init'** in the local repo to craete package.json file
 __clone__ the 'express-es6-starter' repo in a separate location on your PC
 copy the scripts, dependencies and devDependencies from the 'express-es6-starter' to the new-project local repo package.json file
