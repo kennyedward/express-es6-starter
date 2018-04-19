@@ -4,8 +4,7 @@
 
 ## Pre-requisite
 
-Ensure you have node and npm running
-
+Ensure you have [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed
 ## Usage
 
 The quickest way to get started with the 'express-es6-starter' is to follow these steps below:
