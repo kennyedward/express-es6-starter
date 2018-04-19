@@ -10,13 +10,15 @@ Ensure you have node and npm running
 
 The quickest way to get started with the 'express-es6-starter' is to follow these steps below:
 
-Create a new empty repo on GitHub [the new-project you want to work on]
+1. Create a new repo on GitHub
 
-Clone [new-project] to your local PC and then cd [new-project]
+2. Clone the repo to your local PC
 
 ```bash
 $ git clone https://www.github.com/express-es6-starter.git
 ```
+
+3. cd into the local repo
 
 ```bash
 $ npm install -g express-generator@4
