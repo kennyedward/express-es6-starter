@@ -1,7 +1,7 @@
 {
-  "name": "new-repo",
+  "name": "express-es6-starter",
   "version": "1.0.0",
-  "description": "A simple new repo",
+  "description": "Express application quick start with es6 syntax, nodemon, babel, airbnb style guide.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,18 +10,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kennyedward/new-repo.git"
+    "url": "git+https://github.com/kennyedward/express-es6-starter.git"
   },
   "keywords": [
-    "new",
-    "repo"
+    "express",
+    "es6",
+    "nodemon",
+    "babel",
+    "eslint",
+    "airbnb"
   ],
   "author": "Kehinde Edward",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kennyedward/new-repo/issues"
+    "url": "https://github.com/kennyedward/express-es6-starter/issues"
   },
-  "homepage": "https://github.com/kennyedward/new-repo#readme",
+  "homepage": "https://github.com/kennyedward/express-es6-starter#readme",
   "dependencies": {
     "cors": "^2.8.4",
     "ejs": "^2.5.9",
